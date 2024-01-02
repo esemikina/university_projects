@@ -1,0 +1,3 @@
+coke,10
+juice,5
+milk,13

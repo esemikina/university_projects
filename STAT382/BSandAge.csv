@@ -1,0 +1,476 @@
+blood_sugar,age
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Low,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+Normal,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+High,Under 25
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Low,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+Normal,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+High,25 - 49
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Low,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+Normal,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
+High,Over 50
