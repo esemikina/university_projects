@@ -1,0 +1,23 @@
+Top 10 most popular products:
+22	39
+28	36
+8	35
+17	35
+10	35
+3	35
+19	34
+18	34
+9	33
+16	33
+
+Top 10 most commonly copurchased product pairs:
+17 and 22	4
+3 and 10	4
+16 and 8	3
+30 and 28	3
+4 and 22	3
+16 and 17	3
+11 and 4	3
+13 and 15	3
+1 and 14	2
+19 and 27	2
